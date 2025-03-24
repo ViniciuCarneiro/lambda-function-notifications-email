@@ -34,6 +34,7 @@ build/
 *.stylelintcache
 .node_repl_history
 *.tgz
+.package-lock.json
 
 # Terraform
 
@@ -54,3 +55,4 @@ crash.log
 # Configuração local do Terraform
 terraform.rc
 .terraformrc
+*.terraform.lock.hcl
